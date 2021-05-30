@@ -1,0 +1,58 @@
+body {
+    background-image: url("../img/öl.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: lightblue;
+   }
+
+.mainmenu {
+    font-size: 20px;
+} 
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+}
+
+use {
+    float: left; 
+}
+
+use a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+use a:hover {
+    background-color: rgba(255, 255, 255, 0.884);
+    color: rgba(22, 236, 172, 0.884);
+}
+
+.wrapper {
+    text-align: center;
+    background-color: white;
+    width: 75%;
+    margin: auto;
+}
+
+.leftcol {
+    font-size: x-large;
+    font-style: oblique;
+    width: 500px;    
+    margin: right;
+}
+.hold {
+    padding: 0% 70% 0% 0%; 
+    font-size: 15px;
+}
+
+
+   
